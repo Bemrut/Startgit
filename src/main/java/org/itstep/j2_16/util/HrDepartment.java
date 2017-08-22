@@ -6,7 +6,7 @@ import org.itstep.j2_16.service.StudentService;
 
 public class HrDepartment {
     StudentService studentService;
-
+  // test git
     public HrDepartment(StudentService studentService) {
         this.studentService = studentService;
     }
