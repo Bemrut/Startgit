@@ -7,6 +7,7 @@
 <!--MYSQL-->
 
 <!--IN order to use MySQL-->
+            <!--IN order to use MySQL volume 2.0-->
             <!--IN order to use MySQL-new-->
         <!--<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>-->
         <!--<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>-->
